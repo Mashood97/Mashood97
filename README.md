@@ -1,4 +1,4 @@
-[![MasterHead]([https://blog.instabug.com/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png](https://blog.adobe.com/en/publish/2020/09/10/media_1af074c5acb9e2f9fba26e06444175f2b75b2fe3b.png?width=750&format=png&optimize=medium))]("")
+[![MasterHead]("https://blog.adobe.com/en/publish/2020/09/10/media_1af074c5acb9e2f9fba26e06444175f2b75b2fe3b.png?width=750&format=png&optimize=medium")]("")
 
 <h1 align="center">Hi 👋, I'm Muhammad Mashood Siddiquie</h1>
 <h3 align="center">A passionate Android Developer and A Flutter Enthusiast</h3>
