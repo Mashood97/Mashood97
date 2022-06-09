@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter**
 
-- 📝 I regularly write articles on [Medium.com](Medium.com)
+- 📝 I regularly write articles on [https://medium.com/@mashoodsidd97](https://medium.com/@mashoodsidd97)
 
 - 💬 Ask me about **Football, Coding, Music**
 
@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashood97&show_icons=true&locale=en" alt="mashood97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashood97&" alt="mashood97" /></p>
+
