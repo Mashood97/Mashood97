@@ -1,7 +1,7 @@
 [![MasterHead](https://blog.instabug.com/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png)]("")
 <h1 align="center">Hi 👋, I'm Muhammad Mashood Siddiquie</h1>
 <h3 align="center">A passionate Android Developer and A Flutter Enthusiast</h3>
-<h5 align="center"><a href="https://mashood-dev-portfolio.web.app/" target="_blank">MashoodDevPortfolio.com</a></h3>
+<h5 align="center"><a href="https://mashood-dev-portfolio.web.app/" target="_blank" rel="noopener noreferrer">MashoodDevPortfolio.com</a></h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
