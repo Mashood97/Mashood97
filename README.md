@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter**
 
-- 📝 I regularly write articles on [https://medium.com/@mashoodsidd97](https://medium.com/@mashoodsidd97)
+- 📝 I regularly write articles on [Medium](https://medium.com/@mashoodsidd97)
 
 - 📝 I also make videos on  [Youtube](https://www.youtube.com/channel/UC16vadl5SRvJ8G3uRmTEm6Q)
 
