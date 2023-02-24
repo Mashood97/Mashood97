@@ -35,6 +35,14 @@
 
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/mashood9712 rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-cb93e1ae-8ce0-4cc1-98b0-b22d82603a52' itemprop='contentURL' style='display: none;'></div>
@@ -48,6 +56,10 @@
 </div>
 
 <script id='fiverr-seller-widget-script-cb93e1ae-8ce0-4cc1-98b0-b22d82603a52' src='https://widgets.fiverr.com/api/v1/seller/mashood9712?widget_id=cb93e1ae-8ce0-4cc1-98b0-b22d82603a52' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
+
+</body>
+</html>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
