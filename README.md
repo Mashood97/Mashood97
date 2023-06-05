@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Football, Coding, Music**
 
-- 📫 How to reach me **mashood97@gmail.com**
+- 📫 How to reach me **mashoodsidd97@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
