@@ -48,25 +48,6 @@
 
 
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/mashoodsiddiqui rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-1bf4cdf0-3f7a-41f1-ae2e-c70506d6a429' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >mashoodsiddiqui</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Seeking a skilled Flutter developer to transform your app idea into reality? Look no further! I'm a seasoned Flutter pro, passionate about crafting top-notch cross-platform mobile apps. With years of experience, I'm ready to bring your vision to life.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-1bf4cdf0-3f7a-41f1-ae2e-c70506d6a429' src='https://widgets.fiverr.com/api/v1/seller/mashoodsiddiqui?widget_id=1bf4cdf0-3f7a-41f1-ae2e-c70506d6a429' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashood97&label=Profile%20views&color=0e75b6&style=flat" alt="mashood97" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 </body>
 </html>
