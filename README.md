@@ -1,9 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Hi 👋, I'm Muhammad Mashood Siddiquie</title>
-</head>
 <body>
    
 [![MasterHead](https://blog.instabug.com/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png)]("")
