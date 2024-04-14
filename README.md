@@ -4,7 +4,7 @@
 <body>
    
 
-<img src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" alt="Software Developer" width="250" height="250" style="text-align:center;" />
+<img src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" alt="Software Developer" width="350" height="350" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Mashood Siddiquie</h1>
 <h3 align="center">A passionate Android Developer and A Flutter Enthusiast</h3>
