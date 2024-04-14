@@ -3,7 +3,21 @@
 <h3 align="center">A passionate Android Developer and A Flutter Enthusiast</h3>
 <!-- <h5 align="center"><a href="https://mashood-dev-portfolio.web.app/" target="_blank" rel="noopener noreferrer">MashoodDevPortfolio.com</a></h5> -->
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/mashoodsiddiqui rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-1bf4cdf0-3f7a-41f1-ae2e-c70506d6a429' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >mashoodsiddiqui</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Seeking a skilled Flutter developer to transform your app idea into reality? Look no further! I'm a seasoned Flutter pro, passionate about crafting top-notch cross-platform mobile apps. With years of experience, I'm ready to bring your vision to life.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-1bf4cdf0-3f7a-41f1-ae2e-c70506d6a429' src='https://widgets.fiverr.com/api/v1/seller/mashoodsiddiqui?widget_id=1bf4cdf0-3f7a-41f1-ae2e-c70506d6a429' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashood97&label=Profile%20views&color=0e75b6&style=flat" alt="mashood97" /> </p>
 
