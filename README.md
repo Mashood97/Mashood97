@@ -1,3 +1,11 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hi 👋, I'm Muhammad Mashood Siddiquie</title>
+</head>
+<body>
+   
 [![MasterHead](https://blog.instabug.com/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png)]("")
 <h1 align="center">Hi 👋, I'm Muhammad Mashood Siddiquie</h1>
 <h3 align="center">A passionate Android Developer and A Flutter Enthusiast</h3>
@@ -62,5 +70,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashood97&label=Profile%20views&color=0e75b6&style=flat" alt="mashood97" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+</body>
+</html>
 
 
