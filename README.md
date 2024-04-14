@@ -3,7 +3,9 @@
 <html>
 <body>
    
-[![MasterHead](https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg)]("")
+
+<img src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" alt="Software Developer" width="250" height="250"/>
+
 <h1 align="center">Hi 👋, I'm Muhammad Mashood Siddiquie</h1>
 <h3 align="center">A passionate Android Developer and A Flutter Enthusiast</h3>
 <!-- <h5 align="center"><a href="https://mashood-dev-portfolio.web.app/" target="_blank" rel="noopener noreferrer">MashoodDevPortfolio.com</a></h5> -->
